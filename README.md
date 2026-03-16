@@ -109,7 +109,7 @@ Customers (1) → (M) Orders (1) → (M) Order_Items (M) → (1) Products
 ### **Installation & Execution**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/saicharan8855/ecommerce-sql-analysis.git
+   git clone [https://github.com/JayanthSivangula/ecommerce-sql-project]
 
  -- Run the complete script
 SOURCE SQL_ECOMMERCE_GIT.sql;
@@ -157,5 +157,4 @@ Version Control Integration: Managing SQL projects with Git
 
 
 ### **👨‍💻 Author**
-Sai Charan
-[GitHub Profile](https://github.com/saicharan8855)
+Jayanth
